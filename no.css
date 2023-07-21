@@ -19,6 +19,11 @@
             float: left;   
             
         }
+
+
+        .C2 a{
+            margin-right: 20px;
+        }
         #yu{
             float: right;
         }
